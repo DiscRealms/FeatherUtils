@@ -1,0 +1,29 @@
+# Default language file for FeatherClientUtility
+prefix: "&6[ꜰᴇᴀᴛʜᴇʀᴜᴛɪʟѕ]&r "
+no-permission: "&cYou don't have permission to do that."
+players-only: "&cThis command can only be used by players."
+not-feather: "&eYou are not using Feather Client."
+reloaded: "&aReloaded configuration and language."
+banner-reloaded: "&aBanner reloaded."
+banner-failed: "&cFailed to reload banner. See console for details."
+misspenalty-set: "&aMiss penalty bypass set to &e%value%&a."
+mod-banned: "&aBanned mods: &e%mods%&a."
+mod-forced: "&aForce-enabled mods: &e%mods%&a."
+mod-allowed: "&aAllowed (unblocked) mods: &e%mods%&a."
+playermod-disabled: "&aDisabled mod '&e%mod%&a' for &e%player%&a."
+playermod-enabled: "&aEnabled mod '&e%mod%&a' for &e%player%&a."
+waypoint-created: "&aCreated waypoint '&e%name%&a'."
+waypoint-updated: "&aUpdated waypoint '&e%name%&a'."
+waypoint-deleted: "&aDeleted waypoint '&e%name%&a'."
+usage-help: |
+  &eFeatherUtils commands:
+  &a<required> &2[optional]
+  &7-=-=-=-=-=-=-=-=-=-=-=-=
+  &7- &b/featherutils &3help
+  &7- &b/featherutils &3reload
+  &7- &b/featherutils &3banner reload
+  &7- &b/featherutils &3mod &a<ban|force|allow> <mod>
+  &7- &b/featherutils &3misspenalty &a<allow|ban>
+  &7- &b/featherutils &3waypoints &a<create|delete|update> <name> <x> <y> <z> &2[color] [durationSecs]
+  &7- &b/featherutils &3playermod &a<player> <mod> <disable|enable>
+  &7-=-=-=-=-=-=-=-=-=-=-=-=

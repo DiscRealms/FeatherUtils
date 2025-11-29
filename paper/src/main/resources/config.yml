@@ -1,0 +1,41 @@
+# FeatherClientUtility Config for Paper
+
+# Discord Rich Presence Settings
+discord-rich-presence:
+  enabled: true
+  details: "Playing on %server%"
+  state: "In-Game"
+
+# Server List Background
+# Provide a relative path (inside the plugin data folder) or an absolute path to a PNG image.
+# Recommended dimensions: 909x102 pixels
+# Maximum dimensions: 1009×202 pixels
+# Maximum file size: 512 KB
+server-list-background:
+  enabled: true
+  # Example: backgrounds/default.png
+  file: "backgrounds/default.png"
+#
+# WARNING
+# Default banner **must** be changed, this
+# banner is copyrighted by Disc Realms Studios.
+# Failure to change may lead to DMCA filings.
+#
+
+# Waypoint Settings
+waypoints:
+  enabled: true
+
+# Bypass Miss Penalty Settings
+bypass-miss-penalty:
+  enabled: true
+
+# Mod Management Settings
+mod-management:
+  enabled: true
+  # List of mods to disable
+  disabled-mods: []
+  # List of mods to ban
+  banned-mods: []
+  # List of mods to force enable
+  force-enabled-mods: []

@@ -1,0 +1,31 @@
+name: FeatherClientUtility-Paper
+version: '${version}'
+main: net.discrealms.featherClientUtility.paper.PaperFeatherClientUtility
+api-version: 1.21
+commands:
+  featherutils:
+    description: Feather utilities root command
+    usage: "/featherutils help"
+    aliases: [featheru, futils, fu, futil]
+permissions:
+  featherutils.admin.help:
+    description: Access to /featherutils help
+    default: op
+  featherutils.admin.mod:
+    description: Manage Feather mods
+    default: op
+  featherutils.admin.misspenalty:
+    description: Toggle miss penalty bypass
+    default: op
+  featherutils.admin.waypoints:
+    description: Manage waypoints
+    default: op
+  featherutils.admin.playermod:
+    description: Modify another player's mod state
+    default: op
+  featherutils.admin.banner:
+    description: Reload server list background
+    default: op
+  featherutils.admin.reload:
+    description: Reload the plugin configuration and language
+    default: op

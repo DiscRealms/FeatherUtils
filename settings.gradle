@@ -1,0 +1,3 @@
+rootProject.name = 'FeatherClientUtility'
+include 'paper'
+include 'core'
