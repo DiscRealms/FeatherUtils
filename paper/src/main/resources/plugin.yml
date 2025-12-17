@@ -2,6 +2,8 @@ name: FeatherClientUtility-Paper
 version: '${version}'
 main: net.discrealms.featherClientUtility.paper.PaperFeatherClientUtility
 api-version: 1.21
+depend:
+  - FeatherServerAPI
 commands:
   featherutils:
     description: Feather utilities root command
