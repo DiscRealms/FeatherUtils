@@ -26,8 +26,8 @@ Setup/Usage
    6B. You can allow it using ``/featherutils misspenalty allow``
 
 ## NOTICE
-This plugin is Open Source for submitting issues, creating pull requests, or compiling for your own uses. However, [purchasing a license](https://builtbybit.com/resources/featherutils.84554/) is required for servers with more than 75 concurrent online players!
+This plugin is Open Source for submitting issues, creating pull requests, or compiling for your own uses. However, [purchasing a license](https://builtbybit.com/resources/featherutils.84554/) is required for servers with more than 25 concurrent online players or that have monetization!
 
-Refunds are not possible if you do not come to us for support on our Discord and/or bought the plugin for a version not officially supported (Supported Versions are listed).
+Refunds are not possible if you do not reach out to us for support on our Discord and/or purchased the plugin for a version not officially supported (Supported Versions are listed).
 
 FeatherMC is a product of Digital Ingot ©2025; Disc Realms Studios ©2025 does not have any official relation with FeatherMC or Digital Ingot.
